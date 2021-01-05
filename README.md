@@ -7,12 +7,11 @@ This data file includes all needed information to find out more about hosts, geo
 
 ## Acknowledgements
 This public dataset is part of Airbnb, and the original source can be found on this website.
+https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
 ## Inspiration
-What can we learn about different hosts and areas?
+What can we learn about overall data and how do we visualize them?
 
-What can we learn from predictions? (ex: locations, prices, reviews, etc)
+What can we learn from predictions? (ex:  prices and reviews)
 
-Which hosts are the busiest and why?
-
-Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+How does the acccuracies varies across different classification models for availablity of airbnb's?
